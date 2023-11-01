@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let interest:f32 + 8;  // integer assigned to float variable
+    println!("interest is {}",interest);
 }
